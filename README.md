@@ -1,5 +1,6 @@
 # SENSORICA website
 [www.sensorica.co](http://www.sensorics.co)
+
 New effort to improve the SENSORICA website, within the context of a crowdfunding campaign for the SENSORICA montreal lab. Open doc. The idea is to add a simple, informative, pretty layer that caters to a general audience before diving into the chaotic “action” already existing google site geared more for affiliates.
 
 
