@@ -1,0 +1,1 @@
+Drop SVG's here.
